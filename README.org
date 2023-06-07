@@ -1,0 +1,9 @@
+* symath
+
+A simple symbolic math package for Common Lisp
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/hemml/symath.git |
+| commit  | b3e82f6                                 |
+| systems | symath                                  |
+|---------+-----------------------------------------|
