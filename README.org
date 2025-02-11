@@ -4,6 +4,6 @@ A simple symbolic math package for Common Lisp
 
 |---------+-----------------------------------------|
 | source  | git:https://github.com/hemml/symath.git |
-| commit  | 904f6de                                 |
+| commit  | fd4104f                                 |
 | systems | symath                                  |
 |---------+-----------------------------------------|
